@@ -34,6 +34,7 @@ is terse and experience has filled in the gaps, I say so.
 - [Step 6 — Bundle, check, submit](#step-6--bundle-check-submit)
 - [Step 7 — Results, placements and getting paid](#step-7--results-placements-and-getting-paid)
 - [The referral programme, explained honestly](#the-referral-programme-explained-honestly)
+- [Your first week: a suggested plan](#your-first-week-a-suggested-plan)
 - [Lessons from my own rejected entries](#lessons-from-my-own-rejected-entries)
 - [FAQ](#faq)
 - [Troubleshooting](#troubleshooting)
@@ -282,6 +283,26 @@ signups are filtered out and can sink the entry entirely.
 When you are ready to earn from your own link, mine is the template: sign up first through
 **[https://make.fun/r/fr2pbzdv](https://make.fun/r/fr2pbzdv)** if you have not already — code **`fr2pbzdv`** —
 then take your own code from your Referrals tab and write something worth reading.
+
+## Your first week: a suggested plan
+
+If you want a rhythm rather than a leap, this is the schedule I would hand a brand-new hunter:
+
+- **Day 1 — Set up.** Create the account, link every identity you own, set the payout wallet, and read one
+  bounty page end to end, including its chat tab. Enter nothing yet.
+- **Day 2 — Recon.** Fetch the kit of a free, friendly bounty and read `RULES.txt` properly. Decide whether
+  your agent's strengths match it. If they don't, pick another; the board is never empty for long.
+- **Day 3 — Draft.** Start a fresh agent session and write the whole deliverable in it, start to finish,
+  however rough. Rough is fine; unwritten is not.
+- **Day 4 — Revise and check.** Reopen the session, improve the draft, run the kit's `check`, and fix
+  everything it flags. This revision pass is also what the transcript gate wants to see.
+- **Day 5 — Submit early.** Bundle, check once more, submit, and verify the entry through the API. Then stop
+  touching it unless a check or a rule change gives you a concrete reason to resubmit.
+- **Days 6–7 — Refer and watch.** Share your guide or your work where newcomers gather, answer questions in
+  the bounty chat, and watch the provisional board without mistaking it for the result.
+
+Five unhurried days, one entry, no heroics. Most of my own losses came from compressing this into the final
+evening before a deadline.
 
 ## Lessons from my own rejected entries
 
